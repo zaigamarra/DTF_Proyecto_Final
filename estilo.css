@@ -1,0 +1,149 @@
+body {
+	background-color: black;
+	font-family: 'Cinzel', serif;
+	letter-spacing: 2px;
+}
+
+.fondoboton {
+	background-color: black;
+	border: 1px solid white;
+}
+
+.titulo {
+	font-size: 28;
+}
+
+
+.imagencarousel {
+	opacity: 0.5;
+}
+
+.tarjetas {
+	width: 100%;
+	padding: 5vh;
+	margin: 0vh;
+}
+
+.unatarjeta {
+	background-color: #141518;
+	color: white;
+	border-radius: 10px;
+}
+
+#tarjetafamilia {
+	background-image: url("images/fondo_familia.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+#tarjetalaboral {
+	background-image: url("images/fondo_laboral.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+#tarjetacivil {
+	background-image: url("images/fondo_civil.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+.parrafodecarousel {
+	font-size: 20;
+	color: white;
+}
+
+.iconotarjeta {
+	text-align: center;
+	margin-top: 2vh;
+	font-size: 70px;
+	color: white;
+}
+
+.iconotarjeta2 {
+	text-align: center;
+	margin-top: 2vh;
+	font-size: 50px;
+	color: white;
+}
+
+.masinfo {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: grey;
+}
+
+footer {
+	background-color: #343A40;
+	padding: 20px;
+	margin: 2px;
+}
+
+#listafooter{
+	position: center;
+	align-items: inline;
+}
+
+#palabrasfinales {
+	font-size: 15px;
+	text-align: center;
+	color: grey;
+	margin: 10vh;
+	padding: 0vh;
+}
+
+.parrafopequeño {
+ 	padding: 0;
+ 	margin: 0;
+ }
+
+a:hover {
+	color: grey;
+}
+
+.iconofooter{
+	font-size: 25px;
+}
+
+.tarjetaanibal {
+	max-width: 100%;
+	margin: 20px;
+	/*height: 80%;*/
+	background-image: url("images/fondo_quiensoy.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+.cardanibal {
+	height: 100%;
+}
+
+.fotoanibal {
+	border-radius: 10px;
+	margin: 0;
+}
+
+.cardcontacto {
+	margin: 10px;
+	background-image: url("images/fondo_contacto.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 1px solid black;
+}
+
+.ubicacion {
+	text-align: center;
+}
+
+h1 {
+	margin-top: 10px;
+	color: white;
+}
+
